@@ -20,6 +20,7 @@ RUN \
 	transmission-cli \
 	transmission-daemon \
 	unrar \
+	ffmpeg \
 	unzip && \
  echo "**** install third party themes ****" && \
  curl -o \
