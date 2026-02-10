@@ -68,7 +68,7 @@ transmission-daemon     4.1.0-r0          apk
 transmission-extra      4.1.0-r0          apk     
 transmission-remote     4.1.0-r0          apk     
 tzdata                  2025c-r0          apk     
-utmps-libs              0.1.3.2-r0        apk     
+utmps-libs              0.1.3.2-r1        apk     
 xz-libs                 5.8.2-r0          apk     
 zlib                    1.3.1-r2          apk     
 zstd-libs               1.5.7-r2          apk     
